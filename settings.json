@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "deadsmp-08ac.aternos.me
-    ",
+    "ip": "deadsmp-08ac.aternos.me",
     "port": 33092,
     "version": "",
     "try-creative": false
